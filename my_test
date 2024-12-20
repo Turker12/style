@@ -1,0 +1,40 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.book {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.author {
+    font-size: 16px;
+    font-style: italic;
+    color: #7f8c8d;
+}
+
+.price {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
